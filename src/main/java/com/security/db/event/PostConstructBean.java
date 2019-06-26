@@ -21,6 +21,7 @@ public class PostConstructBean {
         Role role1 = new Role();
         role1.setRole("ADMIN");
 
+
         Role role2 = new Role();
         role2.setRole("USER");
 
